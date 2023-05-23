@@ -6,6 +6,5 @@ export const handle: Handle = async ({ event, resolve }) => {
 	}
 
     console.log(event.params.num);
-
     return resolve(event);
 };

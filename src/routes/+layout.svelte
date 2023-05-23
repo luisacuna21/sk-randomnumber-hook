@@ -6,6 +6,7 @@
   <ul class="flex w-full mx-10">
     <li><a class="hover:bg-white/50 p-10" href="/">Home</a></li>
     <li><a class="hover:bg-white/50 p-10" href="/posts">Posts</a></li>
+    <li><a class="hover:bg-white/50 p-10" href="/random">Random</a></li>
   </ul>
 </nav>
 
